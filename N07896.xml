@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:010069_0000_0F7C763F34D27DD0"/>
-            <pb facs="tcp:010069_0001_0F7C763FEE803878"/>
+            <pb facs="unknown:010069_0000_0F7C763F34D27DD0"/>
+            <pb facs="unknown:010069_0001_0F7C763FEE803878"/>
             <p>A CATALOGUE OF MEIN's CIRCULATING LIBRARY; CONSISTING Of above Twelve Hundred VOLUMES, in most Branches of polite Literature, Arts and Sciences; VIZ.
 <list>
                   <item>HISTORY,</item>
@@ -149,7 +149,7 @@ Which are LENT to Read, At One Pound Eight Shillings, lawful Money, <hi>per</hi>
             <p>BOSTON: Printed in the Year MDCCLXV. [PRICE, One Shilling lawful Money.]</p>
          </div>
          <div type="list_of_conditions">
-            <pb n="2" facs="tcp:010069_0002_0F7C7640B7F2EBF8"/>
+            <pb n="2" facs="unknown:010069_0002_0F7C7640B7F2EBF8"/>
             <head>CONDITIONS, To be observed by every SUBSCRIBER.</head>
             <list>
                <item>I. EVERY yearly Subscriber to pay One Pound Eight Shillings, lawful Money.</item>
@@ -167,7 +167,7 @@ Which are LENT to Read, At One Pound Eight Shillings, lawful Money, <hi>per</hi>
       </front>
       <body>
          <div type="library_catalogue">
-            <pb facs="tcp:010069_0003_0F7C764162A97578"/>
+            <pb facs="unknown:010069_0003_0F7C764162A97578"/>
             <head>A CATALOGUE OF MEIN's CIRCULATING LIBRARY, At the LONDON BOOK-STORE, North-side of KING-STREET, BOSTON,</head>
             <div type="subject">
                <head>
@@ -190,7 +190,7 @@ Which are LENT to Read, At One Pound Eight Shillings, lawful Money, <hi>per</hi>
                      </list>
                   </item>
                   <item>
-                     <pb n="4" facs="tcp:010069_0004_0F7C76421E110968"/>
+                     <pb n="4" facs="unknown:010069_0004_0F7C76421E110968"/>
                      <hi>Professor Rollin's Method of studying the Belles Lettres,</hi> 4 <hi>vols,</hi> 18 <hi>s.</hi> Edin 1759
 <list>
                         <item>Vol. I. Containing Reflections on Manners, Religion, Taste, Study of Latin, Greek, Poetry, Excellency of Homer's Poems, <hi>&amp;c.</hi>
@@ -215,7 +215,7 @@ Which are LENT to Read, At One Pound Eight Shillings, lawful Money, <hi>per</hi>
                            <milestone type="tcpmilestone" unit="unspecified" n="20"/> Vol. V. She escapes from him;—an Account of her Tri<g ref="char:EOLhyphen"/>als and Persecutions;—his Arts and Inventions;—car<g ref="char:EOLhyphen"/>ries her back to her old Lodgings;—her Prayers, her Innocence, her Virtue;—Distraction cannot save her; he urges Marriage to her;—she absolutely rejects him.</item>
                         <item>Vol. VI. The behaviour of Clarissa gives the Lie to all Lovelace's rakish Maxims;—he curses his Plots and Contrivances;—she gives the Particulars of her Sto<g ref="char:EOLhyphen"/>ry to Miss Howe;—begs that the blackest Parts of it might be kept secret;—desires one friendly Tear may be dropt from her gentle Eye, on the happy Day that shall shut up all her Sorrows;—Picture of a Rake on a Sick-bed;—Lovelace's easy, specious and undaunted Behaviour at Colonel Ambrose's.</item>
                         <item>
-                           <pb n="5" facs="tcp:010069_0005_0F7C76435F7348E8"/>Vol. VII. Clarissa extremely ill;—Lovelace's humorous Behaviour at Smith's when in search of her:—warm Conversation between him and Colonel Morden;—Cla<g ref="char:EOLhyphen"/>rissa's Christian Patience and Resignation;—Lovelace's Torments;—Remorse wrings his heart;—her truly Christian Behaviour in her last Hours.</item>
+                           <pb n="5" facs="unknown:010069_0005_0F7C76435F7348E8"/>Vol. VII. Clarissa extremely ill;—Lovelace's humorous Behaviour at Smith's when in search of her:—warm Conversation between him and Colonel Morden;—Cla<g ref="char:EOLhyphen"/>rissa's Christian Patience and Resignation;—Lovelace's Torments;—Remorse wrings his heart;—her truly Christian Behaviour in her last Hours.</item>
                         <item>Vol. VIII. Character of Clarissa;—Lovelace's temporary Madness;—dreadful Despondency and Death of Sin<g ref="char:EOLhyphen"/>clair;—deep Distress and Remorse of the Harlow Fa<g ref="char:EOLhyphen"/>mily;—Lovelace recovers his Senses and Gaiety;—re<g ref="char:EOLhyphen"/>solves to travel;—writes Colonel Morden from Mu<g ref="char:EOLhyphen"/>nich;—Interview with Colonel Morden;—Issue of the Duel, &amp;c.</item>
                      </list>
                   </item>
@@ -236,7 +236,7 @@ Which are LENT to Read, At One Pound Eight Shillings, lawful Money, <hi>per</hi>
                   <item>
                      <hi>Memoirs of Miss Sidney Bidulph,</hi> 3 <hi>vols, by Mr. Sheridan,</hi> 15<hi>s.</hi> Lond 761</item>
                   <item>
-                     <pb n="6" facs="tcp:010069_0006_0F7C7643A5C645D8"/>
+                     <pb n="6" facs="unknown:010069_0006_0F7C7643A5C645D8"/>
                      <hi>Invisible Spy,</hi> 2 <hi>vols,</hi> 10<hi>s.</hi> Lond 1759
 <list>
                         <item>Vol. I. Contrast in the behaviour of two married Couple of distinction;—a truly tragical Adventure;—Amours of the celebrated Sabina.</item>
@@ -294,7 +294,7 @@ Which are LENT to Read, At One Pound Eight Shillings, lawful Money, <hi>per</hi>
 <list>
                         <item>Vol. I. Cortes defeats the Indians of Tabasco;—the Tlas<g ref="char:EOLhyphen"/>calans;—Battle at Vera-Cruz;—Montezuma impri<g ref="char:EOLhyphen"/>soned;—his Behaviour.</item>
                         <item>
-                           <pb facs="tcp:010069_0007_0F7C7646AF8E7040"/>
+                           <pb facs="unknown:010069_0007_0F7C7646AF8E7040"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="55"/> Vol. II. Cortez defeats Narvaez;—the Mexicans assault the Spaniards;—are repulsed;—Motezuma killed<g ref="char:punc">▪</g> Battle of Otumba;—Cortes defeated;—Cortes attacks the Enemy, defeats them, and takes Guatimozin;— Mexico surrenders.</item>
                      </list>
                   </item>
@@ -333,7 +333,7 @@ Which are LENT to Read, At One Pound Eight Shillings, lawful Money, <hi>per</hi>
                         <item>Vol. V. Elizabeth;—Queen Mary executed;—Spanish Ar<g ref="char:EOLhyphen"/>mada defeated;—Manners;—Commerce;—Arts and Learning;—James I.—Gun-powder Conspiracy.</item>
                         <item>Vol. VI. Sir Walter Raleigh executed;—Manners;—Navy, Colonies;—Charles I.—Civil War;—Battle of Edge<g ref="char:EOLhyphen"/>hill, Straton, Newbury, &amp;c.</item>
                         <item>
-                           <pb n="8" facs="tcp:010069_0008_0F7C7647CA429A28"/>Vol. VII. Battle of Marston-Moor;—Cromwell;—Battle of Naseby;—King's Trial;—Execution and Character; Cromwell's Birth and private Life;—Restoration—Tri<g ref="char:EOLhyphen"/>al and Execution of the Regicides;—Victories over the Dutch;—Battle of Solebay.</item>
+                           <pb n="8" facs="unknown:010069_0008_0F7C7647CA429A28"/>Vol. VII. Battle of Marston-Moor;—Cromwell;—Battle of Naseby;—King's Trial;—Execution and Character; Cromwell's Birth and private Life;—Restoration—Tri<g ref="char:EOLhyphen"/>al and Execution of the Regicides;—Victories over the Dutch;—Battle of Solebay.</item>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="70"/> Vol. VIII. Trial of Stafford;—Rye-house plot;—Trial of Lord Russel and Algernoon Sidney;—their Execution; King's Sickness and Death;—James II.—Monmouth's Invasion;—Prince of Orange lands in England;—Settle<g ref="char:EOLhyphen"/>ment of the Crown:—Manners and Sciences.</item>
                      </list>
@@ -369,7 +369,7 @@ Which are LENT to Read, At One Pound Eight Shillings, lawful Money, <hi>per</hi>
                   <item>
                      <hi>A new and general Biographical Dictionary, containing an hi<g ref="char:EOLhyphen"/>storical and critical Account of the Lives and writings of the most eminent Persons in every Nation, particularly the Bri<g ref="char:EOLhyphen"/>tish and Irish, from the earliest Accounts of Time, to the present Period. Wherein their remarkable Actions and Suf<g ref="char:EOLhyphen"/>ferings, their Virtue, Parts and Learning, are accurately displayed in</hi> 11 <hi>vols</hi> 5 <hi>l.</hi> 10<hi>s.</hi> 761
 <list>
-                        <pb facs="tcp:010069_0009_0F7C76484C5F2128"/>
+                        <pb facs="unknown:010069_0009_0F7C76484C5F2128"/>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="80"/> Vol. I. Abelard, Addison, Ariosto, Aristotle, Atterbury, Augustine; <hi>&amp;c.</hi>
                         </item>
@@ -413,7 +413,7 @@ Which are LENT to Read, At One Pound Eight Shillings, lawful Money, <hi>per</hi>
                         <item>Vol. I. Hill's Life;—Efrid;—Walking Statue;—Rinal<g ref="char:EOLhyphen"/>do;—Fatal Vision;—Henry V.—Fatal Extravagance; Merlin in Love;—Athelwold.</item>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="95"/> Vol. II. Muses in Mourning;—Zara;—Snake in the
-<pb n="10" facs="tcp:010069_0010_0F7C7648E0A99A50"/>
+<pb n="10" facs="unknown:010069_0010_0F7C7648E0A99A50"/>
 Grass;—Alzira;—Saul;—Daraxes;—Merope;—Ro<g ref="char:EOLhyphen"/>man Revenge;—Insolvent;—Love Letters.</item>
                      </list>
                   </item>
@@ -461,7 +461,7 @@ Grass;—Alzira;—Saul;—Daraxes;—Merope;—Ro<g ref="char:EOLhyphen"/>man R
                   <item>
                      <hi>The Wise Ones bubbled, or Lovers Triumphant, after twenty Years Separation and Residence in Foreign Parts,</hi> 2 <hi>vols</hi> 10<hi>s.</hi> Lond 760</item>
                   <item>
-                     <pb n="11" facs="tcp:010069_0011_0F7C7649AA6A0C28"/>
+                     <pb n="11" facs="unknown:010069_0011_0F7C7649AA6A0C28"/>
                      <hi>Eighty-eight Questions in Love and Gallantry</hi> Lond 1759</item>
                   <item>
                      <hi>The Adventures of Telemachus, by Fenelon,</hi> 2 <hi>vols</hi> 5 <hi>s.</hi> Glas 764</item>
@@ -513,7 +513,7 @@ Grass;—Alzira;—Saul;—Daraxes;—Merope;—Ro<g ref="char:EOLhyphen"/>man R
 <list>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="130"/> Vol. I. Anecdotes of Sully's Family;—his surprising E<g ref="char:EOLhyphen"/>scape at the Massacre of St. Bartholomew;—civil Wars in France;—Battle of Contras;—Death of
-<pb n="12" facs="tcp:010069_0012_0F7C764A72F351D8"/>
+<pb n="12" facs="unknown:010069_0012_0F7C764A72F351D8"/>
 Henry III.—Battle of Ivry;—Battle of Aumale; Continuation of the War to the 1594.</item>
                         <item>Vol. II. Military Expeditions;—Characters;—Henry IV. wounded by Chatel;—his Adventure with an A<g ref="char:EOLhyphen"/>strologer;—War with Spain;—Intrigues of the Mis<g ref="char:EOLhyphen"/>tresses of Henry the Great;—War with Savoy;—great Services of Sully;—Sully goes to Dover;—Conferen<g ref="char:EOLhyphen"/>ces with Queen Elizabeth;—Birth of Louis XIII.—Bi<g ref="char:EOLhyphen"/>ron's Conspiracies. &amp;c. to the Year 1601.</item>
                         <item>Vol. III. Marechal Biron's Conspiracy;—Trial;—Exe<g ref="char:EOLhyphen"/>cution;—Edict against Duels;—Wars of the Spaniards and Dutch;—Sully sent to London:—his surprising Character of young Servin;—his Character of the English Court;—his Labours in the Finances;—Cana<g ref="char:EOLhyphen"/>da settled;—Intrigues, Memoirs, &amp;c. to 1605.</item>
@@ -525,7 +525,7 @@ Henry III.—Battle of Ivry;—Battle of Aumale; Continuation of the War to the 
                      <hi>Voltaire's Age of Lewis XIV. containing the History of France, from the</hi> 1620, <hi>to the</hi> 1750, 2 <hi>vols</hi> 10<hi>s.</hi> Lond 753
 <list>
                         <item>
-                           <milestone type="tcpmilestone" unit="unspecified"/>Vol. I. State of Europe before Louis IV.—Manners; Religion;—Victories of the Great Conde;—civil War to 1654;—Conquest of Flanders;—Holland;—Conduct of Eugene;—Marlborough;—Villars;—Loss of the Battle of Blenheim;—of Hockstet;—of Ramellies;—of Turin;—of Malplaquet;—Victory at Denain;—State of Europe to 1750.</item>
+                           <milestone type="tcpmilestone" unit="unspecified" n=""/>Vol. I. State of Europe before Louis IV.—Manners; Religion;—Victories of the Great Conde;—civil War to 1654;—Conquest of Flanders;—Holland;—Conduct of Eugene;—Marlborough;—Villars;—Loss of the Battle of Blenheim;—of Hockstet;—of Ramellies;—of Turin;—of Malplaquet;—Victory at Denain;—State of Europe to 1750.</item>
                         <item>Vol. II. Private Anecdotes of Lewis;-.-Memoirs, Com<g ref="char:EOLhyphen"/>merce, Police, Sciences, Religion, &amp;c. of France. THE three last Books, Bossuet, Sully, and Voltaire, form a complete History of France, from the first Rise of that Monarchy to the present Time.</item>
                      </list>
                   </item>
@@ -544,7 +544,7 @@ Henry III.—Battle of Ivry;—Battle of Aumale; Continuation of the War to the 
                            <desc>〈◊〉</desc>
                         </gap> strange's Fables of Aesop, and of other eminent Mytholo<g ref="char:EOLhyphen"/>gists, with Morals and Reflections,</hi> 10<hi>s.</hi> 6<hi>d.</hi> Lond 738</item>
                   <item>
-                     <pb n="13" facs="tcp:010069_0013_0F7C764B89915358"/>
+                     <pb n="13" facs="unknown:010069_0013_0F7C764B89915358"/>
                      <hi>Colloquies of Erasmus, pleasantly representing the Super<g ref="char:EOLhyphen"/>stitions and Leveties of the Church of Rome, by L'Estrange</hi> 7<hi>s.</hi> Lond 725</item>
                   <item>
                      <hi>History of that eminent Statesman, Sir John Perott,</hi> 9<hi>s.</hi> Lond 628
@@ -582,7 +582,7 @@ Henry III.—Battle of Ivry;—Battle of Aumale; Continuation of the War to the 
                      </list>
                   </item>
                   <item>
-                     <pb n="14" facs="tcp:010069_0014_0F7C764BECFB7CD8"/>
+                     <pb n="14" facs="unknown:010069_0014_0F7C764BECFB7CD8"/>
                      <hi>Paterson's English Dictionary,</hi> 6<hi>s. with a Description of the different Religious Sects,</hi> Glas 759</item>
                   <item>
                      <milestone type="tcpmilestone" unit="unspecified" n="155"/>
@@ -631,7 +631,7 @@ Henry III.—Battle of Ivry;—Battle of Aumale; Continuation of the War to the 
                   </item>
                   <item>
                      <hi>Dalrymple's military Essay, containing Reflections on rais<g ref="char:EOLhyphen"/>ing,
-<pb n="15" facs="tcp:010069_0015_0F7C764C9C8A3E70"/>
+<pb n="15" facs="unknown:010069_0015_0F7C764C9C8A3E70"/>
 arming, cloathing, and Discipline of the British In<g ref="char:EOLhyphen"/>fantry, and Cavalry,</hi> 10<hi>s.</hi> Lond 761</item>
                   <item>
                      <hi>Curiosities of Paris.</hi> ib 765
@@ -667,7 +667,7 @@ arming, cloathing, and Discipline of the British In<g ref="char:EOLhyphen"/>fant
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="185"/> Vol. VII. Modern universal History;—Life of the King of Prussia;—Robertson's History of Scotland;—New<g ref="char:EOLhyphen"/>ton on Prophecies;—Mallet's Works;—Duhamel's Husbandry;—Epigoniad;—Johnson's Raselas;—En<g ref="char:EOLhyphen"/>graving;—Gerard on Taste;—Franklin's Sophocles.</item>
                         <item>Vol. VIII. Butler's Remains;—Caractacus;—Guicciardi<g ref="char:EOLhyphen"/>ni's
-<pb n="16" facs="tcp:010069_0016_0F7C764FC9B492C8"/>
+<pb n="16" facs="unknown:010069_0016_0F7C764FC9B492C8"/>
 History of Italy;—Newman's Chemistry;—Modern Universal History;—Life of General Wolfe.</item>
                         <item>Vol. IX. Modern universal History;—Books in Surgery; Plays;—Novels, Memoirs, History, Poetry;— Lord Littleton's Dialogues;—Catesby's Letters;—Crysal; Law of Bills of Exchange;—Oeuvres du Philosophe de Sans Souci.</item>
                         <item>Vol. X. Philosophical Transactions;—Modern universal History,— Plays by Voltaire; — Tristram Shandy; Love Elegies;—Voltaire's History of Russia;—London and its Environs described.</item>
@@ -697,7 +697,7 @@ History of Italy;—Newman's Chemistry;—Modern Universal History;—Life of Ge
 <list>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="200"/> Vol. I. Aeneas arrives into Italy;—Romulus builds Rome;—Wars of the Romans;—Tarquin dethron<g ref="char:EOLhyphen"/>ed;—Brutus
-<pb n="17" facs="tcp:010069_0017_0F7C765145640910"/>
+<pb n="17" facs="unknown:010069_0017_0F7C765145640910"/>
 beheads his two Sons;—Exploits of Co<g ref="char:EOLhyphen"/>riolanus.</item>
                         <item>Vol. II. Wars with the Veientes;—Falisci;—Equi;— Volci;—Veii;—Veii besieged ten Years;—Gauls take Rome;—Camillus defeats the Gauls;—Manlius thrown down from the Tarpeian Rock.</item>
                         <item>Vol. III. Manlius beheads his own Son;—Roman La<g ref="char:EOLhyphen"/>dies condemned for practising Poison;—A Roman Army surrenders to the Samnites;—Comparison be<g ref="char:EOLhyphen"/>tween Alexander the Great and the Roman Generals; Pyrrhus lands in Italy;—defeats Levinus;—a second Battle.</item>
@@ -722,7 +722,7 @@ beheads his two Sons;—Exploits of Co<g ref="char:EOLhyphen"/>riolanus.</item>
                      <hi>History of a young Nobleman accidentally left upon a deso<g ref="char:EOLhyphen"/>late island, where he continued Nineteen Years,</hi> 5<hi>s.</hi> Lond 747</item>
                   <item>
                      <hi>History of a fair Greek, who was taken out of a Seraglio at
-<pb n="18" facs="tcp:010069_0018_0F7C7651DDB4C450"/>
+<pb n="18" facs="unknown:010069_0018_0F7C7651DDB4C450"/>
 Constantinople, with the surprising Adventures of other slaves,</hi> 5 <hi>s.</hi> Lond 1755</item>
                   <item>
                      <hi>Colden's History of the five Indian Nations of Cnnada,</hi> 2 <hi>vs</hi> 10<hi>s.</hi> Lond 755
@@ -770,7 +770,7 @@ Constantinople, with the surprising Adventures of other slaves,</hi> 5 <hi>s.</h
                         <item>Vol. I. Gil Blas taken by Robbers;—carried to a Ha<g ref="char:EOLhyphen"/>bitation under Ground;—his Escape;—turns Physici<g ref="char:EOLhyphen"/>an;—arrives at Madrid;—enters into the Service of a Petit Maitre.</item>
                         <item>Vol. II. Gil Blas takes a Fancy to the Theatre;—curi<g ref="char:EOLhyphen"/>ous Adventures of Aurora;—History of Don Alphon<g ref="char:EOLhyphen"/>so;—entertaining Adventures of Don Raphael.</item>
                         <item>Vol. III. Loves of Gil Blas and Sephora;—Gil Blas
-<pb n="19" facs="tcp:010069_0019_0F7C7652A35D2578"/>
+<pb n="19" facs="unknown:010069_0019_0F7C7652A35D2578"/>
 good Fortune;—History of Laura;—Gil Blas pillaged during his Sickness;—in great Favour at Court;—his Imprisonment.</item>
                         <item>Vol. IV. Gil Blas retires into the Country;—his Mar<g ref="char:EOLhyphen"/>riage;—History of Scipio;—his excessive Grief at the Death of his Wife;—returns to Court to divert his Melancholy;—his good Fortune, &amp;c.</item>
                      </list>
@@ -828,7 +828,7 @@ good Fortune;—History of Laura;—Gil Blas pillaged during his Sickness;—in 
 <p>Description and History of the different Countries;—Re<g ref="char:EOLhyphen"/>ligion;—Laws;—Customs;—Manners; &amp;c.</p>
                   </item>
                   <item>
-                     <pb n="20" facs="tcp:010069_0020_0F7C76535EBE77D8"/>
+                     <pb n="20" facs="unknown:010069_0020_0F7C76535EBE77D8"/>
                      <hi>Milton's poetical Works,</hi> 2 <hi>vols</hi> 9<hi>s.</hi> Edin 755
 <list>
                         <item>Vol. I. Critic upon Paradise lost, by Addison;—Para<g ref="char:EOLhyphen"/>dise lost.</item>
@@ -882,7 +882,7 @@ good Fortune;—History of Laura;—Gil Blas pillaged during his Sickness;—in 
 <list>
                         <item>Vol. I. A Journey to the Country;—elegant Descripti<g ref="char:EOLhyphen"/>ons;—affecting Love Scenes;—humorous Description of a censorious old Maid;—Innocence and Beauty di<g ref="char:EOLhyphen"/>stressed by the dark Designs of a withered Prude;—an<g ref="char:EOLhyphen"/>tiquated Prudilla entangled in her own black Arts, and deservedly exposed.</item>
                         <item>Vol. II. Scenes of Happiness and Peace;—satyrical Pic<g ref="char:EOLhyphen"/>ture of a Knot of Foxhunters;—melting Scenes of Di<g ref="char:EOLhyphen"/>stress;—of
-<pb n="21" facs="tcp:010069_0021_0F7C7654740B2A78"/>
+<pb n="21" facs="unknown:010069_0021_0F7C7654740B2A78"/>
 Generosity<g ref="char:punc">▪</g>—Roguery in low Life;—Peni<g ref="char:EOLhyphen"/>tential Prudery;—Country Amusements, &amp;c.</item>
                      </list>
                   </item>
@@ -949,7 +949,7 @@ Generosity<g ref="char:punc">▪</g>—Roguery in low Life;—Peni<g ref="char:E
                         <item>Vol. I. Singular Characters of Commodore Trunnion; Lieut. Hatchway, Mrs. Grizzle; &amp;c. Peregrines youthful Adventures.</item>
                         <item>Vol. II. Peregrine sets out for France;—his Intrigues and Exploits;—various Scenes of comic Distress.</item>
                         <item>Vol. III. Peregrine makes a treacherous Attempt upon his Mistress;—Memoirs of a Lady of Quality;—At<g ref="char:EOLhyphen"/>chieves
-<pb n="22" facs="tcp:010069_0022_0F7C7654F2A3DA18"/>
+<pb n="22" facs="unknown:010069_0022_0F7C7654F2A3DA18"/>
 various Adventures by the Mystery of Fortune-telling.</item>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="290"/> Vol. IV. Peregrine commences Courtier;—disappointed in his Expectations;—lodged in the Fleet;—Memoirs of a noted Personage;—his unexpected good Fortune. &amp;c.</item>
@@ -996,7 +996,7 @@ various Adventures by the Mystery of Fortune-telling.</item>
                         <item>Vol. I. Summary Account of the World, from the Year 395, to the first Rise of the Order of the Knights, in 1048;—Crusades against the Turks;—surprising Va<g ref="char:EOLhyphen"/>lour of the Knights;—desperate Engagements with the Infidels, to the 1291.</item>
                         <item>Vol. II. Knights settle in Rhodes;—Gozon kills a dread<g ref="char:EOLhyphen"/>ful Serpent;—Wars of Tamerlane and Bajazet, to the Year 1454.</item>
                         <item>
-                           <pb n="23" facs="tcp:010069_0023_0F7C76559C6D05F8"/>Vol. III. The Knights noble Defence of Rhodes against the Turks;—the Turks defeated;—Solyman renews the Siege;—Piety and Valour of the Knights;—their glorious Defence, to 1530.</item>
+                           <pb n="23" facs="unknown:010069_0023_0F7C76559C6D05F8"/>Vol. III. The Knights noble Defence of Rhodes against the Turks;—the Turks defeated;—Solyman renews the Siege;—Piety and Valour of the Knights;—their glorious Defence, to 1530.</item>
                         <item>Vol. IV. Adventures of the famous Barbarossa;—despe<g ref="char:EOLhyphen"/>rate Sea Engagements;—History of the famous Dra<g ref="char:EOLhyphen"/>gut;—Turks lay Siege to Malta, to 1560.</item>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="305"/> Vol. V. From the 1560 to the Year 1725. Obstinate de<g ref="char:EOLhyphen"/>fence of Malta;—Government of Malta, &amp;c.</item>
@@ -1036,7 +1036,7 @@ various Adventures by the Mystery of Fortune-telling.</item>
                      <milestone type="tcpmilestone" unit="unspecified" n="315"/>
                      <hi>Cole's Latin and English Dictionary,</hi> 10<hi>s.</hi> 6<hi>d.</hi> ib 764</item>
                   <item>
-                     <pb n="24" facs="tcp:010069_0024_0F7C76594B01E6D0"/>
+                     <pb n="24" facs="unknown:010069_0024_0F7C76594B01E6D0"/>
                      <hi>Gordon's geographical Grammar,</hi> 8<hi>s.</hi> 8 <hi>d.</hi> ib 754
 <p>Comprehending a general and particular View of the Globe, and the Situation;—Extent;—Commodities; Rarities;—Manners;—Language of all the remarka<g ref="char:EOLhyphen"/>ble Countries upon the Face of the Earth, with maps.</p>
                   </item>
@@ -1087,7 +1087,7 @@ various Adventures by the Mystery of Fortune-telling.</item>
 <p>The best Key to man's religious OEconomy, is the Obser<g ref="char:EOLhyphen"/>vation of their natural temper;—on the lawfulness of Pleasure and extravagant Severities of some religi<g ref="char:EOLhyphen"/>ous Systems;—the origin and Progress of the Rite of Sacrifice, &amp;c.</p>
                   </item>
                   <item>
-                     <pb n="25" facs="tcp:010069_0025_0F7C7659EFD842B0"/>
+                     <pb n="25" facs="unknown:010069_0025_0F7C7659EFD842B0"/>
                      <hi>Boyses' new Pantheon, or Fabulous History of the Heathen Gods Goddesses and Heroes, &amp;c.—the Theology of the Heathens; their Historians;—Poets;—Astrology;—Prodigies;—Ora<g ref="char:EOLhyphen"/>cles</hi> 6<hi>s.</hi> with very sine Plates. Lond 1764</item>
                   <item>
                      <hi>Earl of Shaftesbury's Characteristics of Men, Manners, Op<g ref="char:EOLhyphen"/>pinions and Times,</hi> 3 <hi>vols</hi> 14<hi>s</hi> Lond 757
@@ -1165,7 +1165,7 @@ various Adventures by the Mystery of Fortune-telling.</item>
                            <desc>〈…〉</desc>
                         </gap> Beasts Fishes, Serpents. By Mr. Watson, illustrated with fine Plates taken from the Life,</hi> 6<hi>s.</hi> 6 <hi>d.</hi> Lond 755</item>
                   <item>
-                     <pb n="26" facs="tcp:010069_0026_0F7C765A1FD31070"/>
+                     <pb n="26" facs="unknown:010069_0026_0F7C765A1FD31070"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="345"/>
                      <hi>Art of Angling, Rock and Sea Fishing, with the natural History of River, Pond, and Sea Fish, with</hi> 133 <hi>Cuts</hi> 4<hi>s.</hi> 8 <hi>d.</hi> Lond 1740</item>
                   <item>
@@ -1199,7 +1199,7 @@ various Adventures by the Mystery of Fortune-telling.</item>
                      </list>
                   </item>
                   <item>
-                     <pb n="27" facs="tcp:010069_0027_0F7C765ADCE49F28"/>
+                     <pb n="27" facs="unknown:010069_0027_0F7C765ADCE49F28"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="360"/>
                      <hi>Voltaire's select peices</hi> 5<hi>s.</hi> Lond 1754
 <p>Zadig or Destiny, an Eastern story;—Memnon;—Letter from a Turk;—on printed Lies;—Contradictions of this World;—King of Prussia's first Letter to him, &amp;c.</p>
@@ -1242,7 +1242,7 @@ various Adventures by the Mystery of Fortune-telling.</item>
                         <item>Vol. I. Our Knight's first Sally in Search of Adventures; his Misfortunes and wonderful Escapes;—stupendious Combat with the Biscayan;—Story of Marcella;—Un<g ref="char:EOLhyphen"/>fortunate Rencounter with the bloody Yanguesians; Comical Adventures in the inchanted Inn.</item>
                         <item>Vol. II. Pleasant and interesting Adventures in the black Mountain;—History of Cardenio;—curious Imperti<g ref="char:EOLhyphen"/>nent; of the Captive;—Entertaining Combat about Mambrino's Helmet.</item>
                         <item>Vol. III. Camacho's Wedding;—Don Quixote's surpris<g ref="char:EOLhyphen"/>ing
-<pb n="28" facs="tcp:010069_0028_0F7C765C0E485388"/>
+<pb n="28" facs="unknown:010069_0028_0F7C765C0E485388"/>
 Combat with the Knight of the Mirrors;—his in<g ref="char:EOLhyphen"/>credible Courage in the Adventure of the Lions.</item>
                         <item>Vol. IV. Enchantments;—Sancho made Governour; Don Quixote's Misfortunes at Barcelona;—his Death.</item>
                      </list>
@@ -1276,7 +1276,7 @@ Combat with the Knight of the Mirrors;—his in<g ref="char:EOLhyphen"/>credible
                            <milestone type="tcpmilestone" unit="unspecified" n="385"/> Vol. V. Art of being agreeable in Company;—Adven<g ref="char:EOLhyphen"/>turs of Amanda;—Description of a Devotee;—comi<g ref="char:EOLhyphen"/>cal Complaint of Rebecca the distressed, against a Set of female Rakes of Quality.</item>
                         <item>Vol. VI. Of the Amazons;—their Wars;—Education; of their Children;—Account of Cicero;—Cleopatra; Fairy Writing;—Pleasures of the Imagination;—Let<g ref="char:EOLhyphen"/>ter from Pil Garlick.</item>
                         <item>
-                           <pb n="29" facs="tcp:010069_0029_0F7C765C71BBDB78"/>Vol. VII. Story of Biton and Clitobis;—on Dreams; on Fancy;—Description of a Fond Husband;—Vision of Parnassus;—Letter from a Town Coquete.</item>
+                           <pb n="29" facs="unknown:010069_0029_0F7C765C71BBDB78"/>Vol. VII. Story of Biton and Clitobis;—on Dreams; on Fancy;—Description of a Fond Husband;—Vision of Parnassus;—Letter from a Town Coquete.</item>
                         <item>Vol. VIII. Cave of Trophonius;—Story of Aglaus; A Persian Tale;—Hilpa a Chinese Story;—Account and Rules of the Widow-Club;—Zemeroude.</item>
                      </list>
                   </item>
@@ -1305,7 +1305,7 @@ Combat with the Knight of the Mirrors;—his in<g ref="char:EOLhyphen"/>credible
 <list>
                         <item>Vol. I. Distress encouraged to Hope exemplified in the History of Melissa;—Story of Opsinous;—Amurath, an eastern Story;—the Ladies directed in the choice of a Husband.</item>
                         <item>Vol. II. Directions to Wives;—Folly of pleading Inabi<g ref="char:EOLhyphen"/>lity to discharge the Duties of Life;—Infamy of be<g ref="char:EOLhyphen"/>traying
-<pb n="30" facs="tcp:010069_0030_0F7C76601F9E9EA8"/>
+<pb n="30" facs="unknown:010069_0030_0F7C76601F9E9EA8"/>
 private Conversation;—Distresses of an Author invited to read his first Play;—Honor, an Allegory; idle Hope; all exemplified in Eastern and other Stories.</item>
                         <item>Vol. III. History of Nouraddin and Amana or the Folly of human Wishes;—of Fidelio, or the Mischiefs of Su<g ref="char:EOLhyphen"/>perstition and Infidelity;—Life of the admirable Crichton;—Observations on dreaming and madness.</item>
                         <item>
@@ -1345,7 +1345,7 @@ private Conversation;—Distresses of an Author invited to read his first Play;�
 <p>Chiron acquires great Knowledge of human Life by Means of a Glass, possessed of the astonishing Vir<g ref="char:EOLhyphen"/>tue of shewing at one View every Man's Heart, and of discovering his past and future Actions.</p>
                   </item>
                   <item>
-                     <pb n="31" facs="tcp:010069_0031_0F7C7660E1BC6210"/>
+                     <pb n="31" facs="unknown:010069_0031_0F7C7660E1BC6210"/>
                      <hi>The unfortunate Beauty, an interesting Narrative, founded on Fact,</hi> 5<hi>s.</hi> Lond 1757</item>
                   <item>
                      <hi>Memoirs of Fidelio and Harriot, exhibiting a Contrast be<g ref="char:EOLhyphen"/>tween Virtue and Vice,</hi> 5<hi>s.</hi> Lond 756</item>
@@ -1398,7 +1398,7 @@ private Conversation;—Distresses of an Author invited to read his first Play;�
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="430"/> Vol. I. Maundrell's Journey from Aleppo to Jerusalem; Dr. Shaw's Travels;—of the Algerine Dominions; Kingdom of Tunis;—Journey to Palmyro or Tedmor in the Desart.</item>
                         <item>Vol. II. Bishop of Ossory's Travels through Egypt;
-<pb n="32" facs="tcp:010069_0032_0F7C7661A61ECDE8"/>
+<pb n="32" facs="unknown:010069_0032_0F7C7661A61ECDE8"/>
 Drummond's Travels through the Holy Land;—Dr. Russel's into Turkey;—Hanway's into Russia.</item>
                         <item>Vol. III. Hanway's Adventures in Persia;—Pontoppi<g ref="char:EOLhyphen"/>dan's History of Norway.</item>
                         <item>Vol. IV. Travels thro' Egypt and Nubia.</item>
@@ -1437,7 +1437,7 @@ Drummond's Travels through the Holy Land;—Dr. Russel's into Turkey;—Hanway's
 <p>Containing a compendious English Grammar;—Letters on Compliment and Business;—Forms of Indentures; Wills, Testaments, Letters of Attorney;—&amp;c. Arith<g ref="char:EOLhyphen"/>metic and Book-keeping—Geography;—on Horses; Painting;—Exports and Imports of Great Britain; a spelling Dictionary.</p>
                   </item>
                   <item>
-                     <pb n="33" facs="tcp:010069_0033_0F7C7662699C5030"/>
+                     <pb n="33" facs="unknown:010069_0033_0F7C7662699C5030"/>
                      <hi>Woolgar's Young Man's best Companion,</hi> 3<hi>s.</hi> 8 <hi>d.</hi> Lond 1762</item>
                   <item>
                      <hi>Fisher's Young Man's best Companion,</hi> 3<hi>s.</hi> 8 <hi>d.</hi> ib 762</item>
@@ -1494,7 +1494,7 @@ Drummond's Travels through the Holy Land;—Dr. Russel's into Turkey;—Hanway's
                   <item>
                      <hi>Mr. Hoyles Games of Whist, Quadrille, Picquet, Chess, and Backgammon,</hi> 5<hi>s.</hi> Lond 765</item>
                   <item>
-                     <pb n="34" facs="tcp:010069_0034_0F7C766356E79620"/>
+                     <pb n="34" facs="unknown:010069_0034_0F7C766356E79620"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="470"/>
                      <hi>Satyrical Letters,</hi> 2 <hi>vols, by G. W. Rabener, first Secretary to the King of Poland,</hi> 10 <hi>s.</hi> Lond 1757</item>
                   <item>
@@ -1555,7 +1555,7 @@ Drummond's Travels through the Holy Land;—Dr. Russel's into Turkey;—Hanway's
                      </list>
                   </item>
                   <item>
-                     <pb n="35" facs="tcp:010069_0035_0F7C766670CF3188"/>
+                     <pb n="35" facs="unknown:010069_0035_0F7C766670CF3188"/>
                      <hi>Poems on several Occasions, with the Tragedies of Iulius Caesar and Marcus Brutus, by John Sheffield Duke of Buckingham,</hi> 4<hi>s.</hi> 8 <hi>d.</hi> Glas 1752</item>
                   <item>
                      <hi>Homer's Iliad, translated by A. Pope, <abbr>Esq</abbr>
@@ -1605,7 +1605,7 @@ Drummond's Travels through the Holy Land;—Dr. Russel's into Turkey;—Hanway's
 <p>Containing Life of Aesop;—Essay on Fable;—Original Fables with fine Plates.</p>
                   </item>
                   <item>
-                     <pb n="36" facs="tcp:010069_0036_0F7C7667722BB448"/>
+                     <pb n="36" facs="unknown:010069_0036_0F7C7667722BB448"/>
                      <hi>Hymen, or an accurate Description of the Ceremonies used in Marriage, by every Nation in the known World,</hi> 4<hi>s.</hi> 6<hi>d.</hi> Lond 1760</item>
                   <item>
                      <milestone type="tcpmilestone" unit="unspecified" n="510"/>
@@ -1656,7 +1656,7 @@ Drummond's Travels through the Holy Land;—Dr. Russel's into Turkey;—Hanway's
 <list>
                         <item>Vol. I. Of China, India, Persia, Mahomet, Charle<g ref="char:EOLhyphen"/>maign, Spain, Turks, England;—of the Crusades a<g ref="char:EOLhyphen"/>gainst the Turks;—taking of Constantinople;—includ<g ref="char:EOLhyphen"/>ing 9th, 10th, 11th, and 12th Centuries.</item>
                         <item>
-                           <pb n="37" facs="tcp:010069_0037_0F7C7667F0448970"/>Vol. II. Of the famous Jenghiz Chan, Black Prince, Manners, Tamerlane, Scanderbeg, Popes, including the 13th, 14th and 15th Centuries.</item>
+                           <pb n="37" facs="unknown:010069_0037_0F7C7667F0448970"/>Vol. II. Of the famous Jenghiz Chan, Black Prince, Manners, Tamerlane, Scanderbeg, Popes, including the 13th, 14th and 15th Centuries.</item>
                         <item>Vol. III. Of Muscovy, Germany;—the Reformation; In<g ref="char:EOLhyphen"/>quisition;—of America;—Queen Elizabeth;—Manners, Customs, Religion,—including the 16th Century.</item>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="525"/> Vol. IV. Of Henry the Great;—Gustavus Adolphus; Cromwell;—the famous Khouli-Khan;—Ottoman Empire;—Persia;—Japan;—including the 17th Centu<g ref="char:EOLhyphen"/>ry, to the Reign of Lewis XIV.</item>
@@ -1689,7 +1689,7 @@ Drummond's Travels through the Holy Land;—Dr. Russel's into Turkey;—Hanway's
                      </list>
                   </item>
                   <item>
-                     <pb n="38" facs="tcp:010069_0038_0F7C76685E254130"/>
+                     <pb n="38" facs="unknown:010069_0038_0F7C76685E254130"/>
                      <hi>History of Louisiana, containing a Description of the Coun<g ref="char:EOLhyphen"/>tries on both Sides of the Missisipi, by M. Du Pratz,</hi> 2 <hi>vols.</hi> 10<hi>s.</hi> Lond 1763</item>
                   <item>
                      <hi>Manners,</hi> 5 <hi>s.</hi> ib 765
@@ -1729,7 +1729,7 @@ Drummond's Travels through the Holy Land;—Dr. Russel's into Turkey;—Hanway's
                   <item>
                      <hi>Miscellaneous Works in Prose and Verse, of Mrs. Elizabeth Rowe,</hi> 2 <hi>vols,</hi> 10<hi>s.</hi> Lond 756
 <list>
-                        <pb n="39" facs="tcp:010069_0039_0F7C76691E0DC190"/>
+                        <pb n="39" facs="unknown:010069_0039_0F7C76691E0DC190"/>
                         <item>Vol. I. Mrs. Rowe's Life, Hymns, Elegies, Translati<g ref="char:EOLhyphen"/>ons from Tasso's Jerusalem.</item>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="555"/> Vol. II. History of Joseph, a Poem, in 10 Books;—Di<g ref="char:EOLhyphen"/>alogues, Letters, &amp;c.</item>
@@ -1773,7 +1773,7 @@ Drummond's Travels through the Holy Land;—Dr. Russel's into Turkey;—Hanway's
                         <item>Vol. V. Old Batchelor,—Twelfth Night,—Merchant of Venice,—Twin Rivals, Beaux Stratagem.</item>
                         <item>Vol. VI. Perjur'd Husband,—Beaux Duel,—Gamester, Basset Table,—Love at a Venture.</item>
                         <item>
-                           <pb n="40" facs="tcp:010069_0040_0F7C7669EBAEA9B8"/>
+                           <pb n="40" facs="unknown:010069_0040_0F7C7669EBAEA9B8"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="570"/> Vol. VII. Perolla and Izadora,—Double Gallant,—Refu<g ref="char:EOLhyphen"/>sal,—Caesar in Egypt,—Xerxes.</item>
                         <item>Vol. VIII. Heroick Daughter,—Richard III.—Love's Last Shift,—Ladies last Stake,—Comical Lovers.</item>
                         <item>Vol. IX. Wonder, a Woman keeps a Secret,—Mans Bewitched,—Henry IV.—Gotham Election,—Wife well managed.</item>
@@ -1809,7 +1809,7 @@ Drummond's Travels through the Holy Land;—Dr. Russel's into Turkey;—Hanway's
                         <item>Vol. II. Pastoral Poetry, Virgil, Tasso, Guarini, Pope, Spenser, Philips, Gay, of Satire; Cervantes, Rabe<g ref="char:EOLhyphen"/>lais, Pope, Swift, &amp;c.</item>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="590"/> Vol. III. Of Satire, Churchill, Rousseau,—of Elegiac,
-<pb n="41" facs="tcp:010069_0041_0F7C766AA5E1EBF8"/>
+<pb n="41" facs="unknown:010069_0041_0F7C766AA5E1EBF8"/>
 Poetry, Ovid, Warton, Mason, Lord Lyttleton;—of History, Sallust, Xenophon, Hume, Robertson, Vol<g ref="char:EOLhyphen"/>taire, &amp;c.</item>
                         <item>Vol. IV. Of Tragedy, Sophocles, Euripides, Corneille, Racine, Voltaire, Shakespear, Otway, Young.</item>
                         <item>Vol. V. Of Comedy, Congreve, Farquhar, Steele, Col<g ref="char:EOLhyphen"/>man, of the Sublime and Pathetic.</item>
@@ -1884,7 +1884,7 @@ Poetry, Ovid, Warton, Mason, Lord Lyttleton;—of History, Sallust, Xenophon, Hu
                   <item>
                      <hi>Dilworth's Conquest of Peru,</hi> 1<hi>s.</hi> 8 <hi>d.</hi> ib 759</item>
                   <item>
-                     <pb n="42" facs="tcp:010069_0042_0F7C766B5D280CE0"/>
+                     <pb n="42" facs="unknown:010069_0042_0F7C766B5D280CE0"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="625"/>
                      <hi>Dilworth's Life of Marshal Saxe, with Plates,</hi> 1<hi>s.</hi> 8<hi>d.</hi> Lond 1761</item>
                   <item>— <hi>Life of Oliver Cromwell, with Plates,</hi> 1<hi>s.</hi> 8 <hi>d.</hi> ib 760</item>
@@ -1977,7 +1977,7 @@ Poetry, Ovid, Warton, Mason, Lord Lyttleton;—of History, Sallust, Xenophon, Hu
                <list>
                   <item>Causes Celebres et Interessantes, avec les Iugemens qui les ont décidées, <hi>20</hi> tomes, <hi>5</hi> l. <hi>Paris 739</hi>
                      <list>
-                        <pb n="43" facs="tcp:010069_0043_0F7C766C23C7F920"/>
+                        <pb n="43" facs="unknown:010069_0043_0F7C766C23C7F920"/>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="670"/> Tome I. Histoire du faux Martin Guerre;—de Renée Corbeau;—du Gueux de Vernon;—dúne célebre Empoi<g ref="char:EOLhyphen"/>sonneuse;-d'un Mari et sa Femme innocens condamnés.</item>
                         <item>Tome II. Histoire du faux Caille;—d'Urbain Grandier.</item>
@@ -2023,7 +2023,7 @@ Poetry, Ovid, Warton, Mason, Lord Lyttleton;—of History, Sallust, Xenophon, Hu
                   <item>Pieces Choisies de Moliere, <hi>6</hi>s. <hi>Edin 754</hi>
                   </item>
                   <item>
-                     <pb n="46" facs="tcp:010069_0044_0F7C766CDC4B2A00"/>Les Avantures de Telemaque, par l'Archevêque de Cambrai, <hi>4</hi>s. <hi>6</hi>d. <hi>Edin 1763</hi>
+                     <pb n="46" facs="unknown:010069_0044_0F7C766CDC4B2A00"/>Les Avantures de Telemaque, par l'Archevêque de Cambrai, <hi>4</hi>s. <hi>6</hi>d. <hi>Edin 1763</hi>
                   </item>
                   <item>Les Avantures de Gil Blas de Santillane, par M. Le Sage, <hi>4</hi> tomes, <hi>10</hi>s. <hi>6</hi>d. <hi>Edin 755</hi>
                   </item>
@@ -2083,7 +2083,7 @@ Poetry, Ovid, Warton, Mason, Lord Lyttleton;—of History, Sallust, Xenophon, Hu
                      <milestone type="tcpmilestone" unit="unspecified" n="720"/> — Translation of the Aphorisms of Sanctorius, 10<hi>s.</hi> 6<hi>d.</hi> ib 737</item>
                   <item>Wheeler's Botanists and Gardeners new Dictionary 10<hi>s.</hi> 6<hi>d.</hi> Lond 763</item>
                   <item>
-                     <pb n="45" facs="tcp:010069_0045_0F7C767006207370"/>Dr. Grieve's Translation of Celsus, 10<hi>s.</hi> 6<hi>d.</hi> Lond 1756</item>
+                     <pb n="45" facs="unknown:010069_0045_0F7C767006207370"/>Dr. Grieve's Translation of Celsus, 10<hi>s.</hi> 6<hi>d.</hi> Lond 1756</item>
                   <item>Dr. Swan's Translation of Sydenham's Works, ib 763</item>
                   <item>Professor Alpinus's Presages of Life and Death, 2 vols translated by Dr James, 17<hi>s.</hi> Lond 746</item>
                   <item>
@@ -2128,7 +2128,7 @@ Poetry, Ovid, Warton, Mason, Lord Lyttleton;—of History, Sallust, Xenophon, Hu
                   </item>
                   <item>Professor Winslow's Anatomy, 2 vols 18<hi>s.</hi> 8<hi>d.</hi> Edin 763</item>
                   <item>
-                     <pb n="46" facs="tcp:010069_0046_0F7C76718B725410"/>Van Swieten's Commentaries upon the Aphorisms of the late learned Dr. Herman Boerhaave, concerning the Knowledge and Cure of the several Diseases incident to human Bodies, 14 vols 7<hi>l.</hi> 7s. Lond 1765
+                     <pb n="46" facs="unknown:010069_0046_0F7C76718B725410"/>Van Swieten's Commentaries upon the Aphorisms of the late learned Dr. Herman Boerhaave, concerning the Knowledge and Cure of the several Diseases incident to human Bodies, 14 vols 7<hi>l.</hi> 7s. Lond 1765
 <list>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="750"/>
@@ -2179,7 +2179,7 @@ Poetry, Ovid, Warton, Mason, Lord Lyttleton;—of History, Sallust, Xenophon, Hu
                </list>
             </div>
             <div type="subject">
-               <pb n="47" facs="tcp:010069_0047_0F7C767221FA8C20"/>
+               <pb n="47" facs="unknown:010069_0047_0F7C767221FA8C20"/>
                <head>DIVINITY.</head>
                <list>
                   <item>BENNET on the Truth, Inspiration, and useful<g ref="char:EOLhyphen"/>ness of the Scripture, 7 <hi>s.</hi> 6 <hi>d.</hi> Lond 1730</item>
@@ -2214,7 +2214,7 @@ Poetry, Ovid, Warton, Mason, Lord Lyttleton;—of History, Sallust, Xenophon, Hu
                   <item>
                      <milestone type="tcpmilestone" unit="unspecified" n="785"/> Green's Psalms and Anthems, 3 <hi>s.</hi> 8 <hi>d.</hi> ib 761</item>
                   <item>Hallet on the Free and impartial Study of the holy
-<pb n="48" facs="tcp:010069_0048_0F7C7672E247AE38"/>
+<pb n="48" facs="unknown:010069_0048_0F7C7672E247AE38"/>
 Scriptures, being Notes on some peculiar Scripture Texts, with Discourses and Observations on the fol<g ref="char:EOLhyphen"/>lowing Subjects, 3 vols 1 <hi>l.</hi> 4<hi>s.</hi> Lond 1729
 <list>
                         <item>Vol. I. Containing, of the Septuagint Version of the Bible, and the Difference between the Citations in the New Testament and the original Passages in the old; Of the Lord's Prayer;—of the Soul.</item>
@@ -2238,7 +2238,7 @@ Scriptures, being Notes on some peculiar Scripture Texts, with Discourses and Ob
                   <item>Dictionary of the Holy Bible, containing, an historical Ac<g ref="char:EOLhyphen"/>count of the Persons, a geographical Account of the Places<g ref="char:punc">▪</g> and literal<g ref="char:punc">▪</g> critical, and systematical Descripti<g ref="char:EOLhyphen"/>ons of other Objects, whether Civil, Religious, or mi<g ref="char:EOLhyphen"/>litary<g ref="char:punc">▪</g> mentioned in the Old and New-Testament, and Apocrypha, 3 vols. 1 <hi>l.</hi> 4<hi>s.</hi> 
                   </item>
                   <item>The Works of the Reverend Thomas Jones, with an Ac<g ref="char:EOLhyphen"/>count
-<pb n="49" facs="tcp:010069_0049_0F7C7673ADED37A8"/>
+<pb n="49" facs="unknown:010069_0049_0F7C7673ADED37A8"/>
 of his Life, in a Recommendatory Preface, by Mr. Romaine, 7<hi>s.</hi> 6<hi>d.</hi> Lond 1763</item>
                   <item>Twenty Sermons on the most serious and practical Sub<g ref="char:EOLhyphen"/>jects of the Christian Religion, for the Use of private Families, 7<hi>s.</hi> 6<hi>d.</hi> Lond 757</item>
                   <item>The Works of Dr. Walter Hodges, 2 vols, 1 <hi>l.</hi> ib 751
@@ -2272,7 +2272,7 @@ of his Life, in a Recommendatory Preface, by Mr. Romaine, 7<hi>s.</hi> 6<hi>d.</
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="810"/> Vol. I. The Supremacy of the Father asserted and vin<g ref="char:EOLhyphen"/>dicated;—an Enquiry concerning the Personal Cha<g ref="char:EOLhyphen"/>racter of the Son of God;—Property,—Original Sin, Justification,—Faith and Mysteries,—Revelation, &amp;c.</item>
                         <item>Vol. II. Case of Abraham;—on Persecution;—human Nature vindicated;—Scripture Evidence considered;
-<pb n="50" facs="tcp:010069_0050_0F7C767464E59650"/>
+<pb n="50" facs="unknown:010069_0050_0F7C767464E59650"/>
 natural Liberty;—Glory of Christ;—on Virtue, Hap<g ref="char:EOLhyphen"/>piness<g ref="char:punc">▪</g> Vice;—national Punishments, &amp;c.</item>
                      </list>
                   </item>
@@ -2311,7 +2311,7 @@ natural Liberty;—Glory of Christ;—on Virtue, Hap<g ref="char:EOLhyphen"/>pin
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="830"/> Vol. VI. Twenty-six Discourses,—proving Jesus to be the Messias, &amp;c.</item>
                         <item>
-                           <pb n="51" facs="tcp:010069_0051_0F7C76778976F170"/>Vol. VII. Thirty Discourses,—the goodness of God, &amp;c.</item>
+                           <pb n="51" facs="unknown:010069_0051_0F7C76778976F170"/>Vol. VII. Thirty Discourses,—the goodness of God, &amp;c.</item>
                         <item>Vol. VIII. Thirty-one Discourses,—Danger of Impeni<g ref="char:EOLhyphen"/>tency where the Gospel is preached, &amp;c.</item>
                         <item>Vol. IX. Thirty-three Discourses,—of the Form and Power of Godliness, &amp;c.</item>
                         <item>Vol. X. Evidences of the Truth of the Christian Reli<g ref="char:EOLhyphen"/>gion;—Prayers used by King William III. &amp;c.</item>
@@ -2357,7 +2357,7 @@ natural Liberty;—Glory of Christ;—on Virtue, Hap<g ref="char:EOLhyphen"/>pin
                   <item>Moir's Sermons on several Occasions, 3 <hi>s.</hi> 8 <hi>d.</hi> Edin 761</item>
                   <item>Memoirs of Mr. Fraser of Brae, 4<hi>s.</hi> 8 <hi>d.</hi> ib 738</item>
                   <item>
-                     <pb n="52" facs="tcp:010069_0052_0F7C7678C651A918"/>Watt's humble Attempt towards the revival of practical Religion among Christians, 4<hi>s.</hi> 8 <hi>d.</hi> Lond 1749</item>
+                     <pb n="52" facs="unknown:010069_0052_0F7C7678C651A918"/>Watt's humble Attempt towards the revival of practical Religion among Christians, 4<hi>s.</hi> 8 <hi>d.</hi> Lond 1749</item>
                   <item>
                      <milestone type="tcpmilestone" unit="unspecified" n="865"/> Watt's Psalms, 2<hi>s.</hi> 4 <hi>d.</hi> ib 753</item>
                   <item>Watt's Hymns, 2<hi>s.</hi> 4 <hi>d.</hi> ib 763</item>
@@ -2394,7 +2394,7 @@ natural Liberty;—Glory of Christ;—on Virtue, Hap<g ref="char:EOLhyphen"/>pin
                   <item>Lord Chief Justice Hales' Contemplations, moral and Di<g ref="char:EOLhyphen"/>vine, 2 vols with an Account of his Life and Death, by Dr. Burnet, 7<hi>s.</hi> 6 <hi>d.</hi> Glas 763</item>
                   <item>Dr. Evans's practical Discourses on Christian Temper, 2 vols 8<hi>s.</hi> Glas 755
 <list>
-                        <pb n="53" facs="tcp:010069_0053_0F7C76792B213E98"/>
+                        <pb n="53" facs="unknown:010069_0053_0F7C76792B213E98"/>
                         <item>Vol. I. General Characters of the Christian Temper; Branches of the Christian Temper.</item>
                         <item>
                            <milestone type="tcpmilestone" unit="unspecified" n="890"/> Vol. II. The Christian Temper in Relation to ourselves and in Relation to other Men.</item>
@@ -2444,7 +2444,7 @@ natural Liberty;—Glory of Christ;—on Virtue, Hap<g ref="char:EOLhyphen"/>pin
                   <item>— Example of plain Catechising, 1<hi>s.</hi> 8 <hi>d.</hi> Glas 764</item>
                   <item>— Sanctification of a Communion Sabbath, 1<hi>s.</hi> 8<hi>d.</hi> Edin 761</item>
                   <item>
-                     <pb n="54" facs="tcp:010069_0054_0F7C76799D6ED210"/>
+                     <pb n="54" facs="unknown:010069_0054_0F7C76799D6ED210"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="915"/> Dodriddge's Rise and Progress of Religion in the Soul, 2<hi>s.</hi> 3<hi>d.</hi> Glas 1763</item>
                   <item>Doddridge's Sermons to Young People, 1<hi>s.</hi> 6<hi>d.</hi> Edin 762</item>
                   <item>Dr. Watt's Present for Children, 2<hi>s.</hi> ib 761</item>
@@ -2501,7 +2501,7 @@ natural Liberty;—Glory of Christ;—on Virtue, Hap<g ref="char:EOLhyphen"/>pin
                      <milestone type="tcpmilestone" unit="unspecified" n="960"/> — on Judgment, 1 <hi>s.</hi> Glas 757</item>
                   <item>Craighead on the Sacrament, 10 <hi>d.</hi> ib 758</item>
                   <item>
-                     <pb n="55" facs="tcp:010069_0055_0F7C767A5DBC84B0"/>Communicants Instructor, 10<hi>d.</hi> Glas 1758</item>
+                     <pb n="55" facs="unknown:010069_0055_0F7C767A5DBC84B0"/>Communicants Instructor, 10<hi>d.</hi> Glas 1758</item>
                   <item>Scougal's Life of God, 1<hi>s.</hi> ib 757</item>
                   <item>Brookes' precious Remedies, 1<hi>s.</hi> ib 760</item>
                   <item>
@@ -2554,7 +2554,7 @@ natural Liberty;—Glory of Christ;—on Virtue, Hap<g ref="char:EOLhyphen"/>pin
                   <item>
                      <milestone type="tcpmilestone" unit="unspecified" n="1000"/> Cunningham's Laws of Bill of Exchange, Promissary Notes, Insurances, &amp;c. 10<hi>s.</hi> 6 <hi>d.</hi> Lond 761</item>
                   <item>
-                     <pb n="56" facs="tcp:010069_0056_0F7C767B84B73AC8"/>Foley's poor Laws, 8<hi>s.</hi> 8<hi>d.</hi> ib 1758</item>
+                     <pb n="56" facs="unknown:010069_0056_0F7C767B84B73AC8"/>Foley's poor Laws, 8<hi>s.</hi> 8<hi>d.</hi> ib 1758</item>
                   <item>Cunningham's History of Taxes, Customs, Subsidies, &amp;c. from William the Conqueror, to the Year 1764, 12<hi>s.</hi> Lond 764</item>
                   <item>Attorney's compleat Pocket Book, 2 vols 10<hi>s.</hi> 6<hi>d.</hi> ib 764</item>
                   <item>
@@ -2598,7 +2598,7 @@ natural Liberty;—Glory of Christ;—on Virtue, Hap<g ref="char:EOLhyphen"/>pin
                </list>
             </div>
             <div type="size">
-               <pb n="57" facs="tcp:010069_0057_0F7C767BEB1D4310"/>
+               <pb n="57" facs="unknown:010069_0057_0F7C767BEB1D4310"/>
                <head>FOLIO and QUARTO,</head>
                <list>
                   <item>THE whole Works of the Rev. Mr. John Flavel, 2 vols 1 <hi>l.</hi> 8<hi>s.</hi> fine Paper. Edin 1762
@@ -2657,7 +2657,7 @@ natural Liberty;—Glory of Christ;—on Virtue, Hap<g ref="char:EOLhyphen"/>pin
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb n="1" facs="tcp:010069_0058_0F7C767C9C28C550"/>
+            <pb n="1" facs="unknown:010069_0058_0F7C767C9C28C550"/>
             <head>J. MEIN has lately imported from London, a large Collection of BOOKS, consisting of se<g ref="char:EOLhyphen"/>veral Thousand Volumes, all of the latest Editions, and elegantly bound, among which are Copies of all the Books mentioned in this Catalogue, which he sells at the Prices they are marked at.</head>
             <head type="sub">Likeways to be sold at the London Book-store,</head>
             <list>
@@ -2720,7 +2720,7 @@ natural Liberty;—Glory of Christ;—on Virtue, Hap<g ref="char:EOLhyphen"/>pin
                </item>
                <item>An Assortment of Classical Books, Dictionaries, and Law Books at the lowest Prices</item>
                <item>
-                  <pb n="2" facs="tcp:010069_0059_0F7C767F164821D0"/>A large Collection of little entertaining Books with Pictures for Children, from 2<hi>d.</hi> to 2<hi>s.</hi>
+                  <pb n="2" facs="unknown:010069_0059_0F7C767F164821D0"/>A large Collection of little entertaining Books with Pictures for Children, from 2<hi>d.</hi> to 2<hi>s.</hi>
                </item>
                <item>A very large Assortment of Histories and Divinity Books at 9<hi>s.</hi> 4<hi>d.</hi> per Dozen.</item>
                <item>Maps for Rollin's antient History,</item>
@@ -2767,7 +2767,7 @@ natural Liberty;—Glory of Christ;—on Virtue, Hap<g ref="char:EOLhyphen"/>pin
             <p>Fine and Coarse writing Paper at the lowest Prices.</p>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:010069_0060_0F7C767FB9F6AF20"/>
+            <pb facs="unknown:010069_0060_0F7C767FB9F6AF20"/>
             <p>Just imported by J. MEIN, THE PULPIT and FAMILY BIBLE: Containing the SACRED TEXT of The OLD and NEW TESTAMENT at large: WITH ANNOTATIONS Theological, Moral, Critical, Historical and Explanatory, Extracted from Mr. MATTHEW HENRY, Mr. MAT<g ref="char:EOLhyphen"/>THEW POOL, Mr. WILLIAM BURKITT, Dr. DODDRIDGE, <hi>&amp;c.</hi>
             </p>
             <p>Together with The marginal Notes of Mr. JOHN CANNE, the parallel Scriptures of Mr. SAMUEL CLARKE, and those of WETSTEN'S Greek New Testament, and the Hebrew Phrases carefully revised.</p>
